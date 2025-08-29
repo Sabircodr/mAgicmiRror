@@ -1,0 +1,21 @@
+:root {
+  --primary-color: #8B4513;
+  --secondary-color: #CD853F;
+  --accent-color: #A0522D;
+  --accent-rust: #B22222;
+  --text-color1: #3C2415;
+  --text-color2: #B47751;
+  --text-light: #8B7355;
+  --background-dark: #2F1B14;
+  --background-dirty: #F5F5DC;
+  --background-grime: #E6E6FA;
+  --shadow-heavy: rgba(0, 0, 0, 0.4);
+  --shadow-gritty: rgba(139, 69, 19, 0.3);
+  --border-rough: #D2B48C;
+  --success-color: #228B22;
+  --warning-color: #FF8C00;
+  --error-color: #DC143C;
+  --gradient-dirty: linear-gradient(135deg, var(--primary-color), var(--accent-rust));
+  --gradient-grime: linear-gradient(135deg, var(--secondary-color), var(--accent-color));
+  --texture-overlay: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><defs><filter id="noiseFilter"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="1" stitchTiles="stitch"/></filter></defs><rect width="100%" height="100%" filter="url(%23noiseFilter)" opacity="0.05"/></svg>');
+}

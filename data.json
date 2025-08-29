@@ -1,0 +1,88 @@
+{
+  "downloadLinks": [
+    {
+      "name": "Android APK",
+      "url": "https://drive.google.com/",
+      "platform": "Google Drive",
+      "icon": "fab fa-google-drive",
+      "fileSize": "215 MB",
+      "version": "v0.2.0",
+      "type": "app"
+    },
+    {
+      "name": "Android APK (Mirror)",
+      "url": "https://www.dropbox.com/",
+      "platform": "Dropbox",
+      "icon": "fab fa-dropbox",
+      "fileSize": "215 MB",
+      "version": "v0.2.0",
+      "type": "app"
+    },
+    {
+      "name": "mAgicmirRor",
+      "url": "mAgicmirRor.apk",
+      "platform": "Direct Link",
+      "icon": "fas fa-download",
+      "fileSize": "215 MB",
+      "version": "v0.2.0",
+      "type": "app"
+    },
+    {
+      "name": "Digital Textbook",
+      "url": "https://drive.google.com/",
+      "platform": "Google Drive",
+      "icon": "fab fa-google-drive",
+      "fileSize": "1.15 MB",
+      "version": "Edition 2025",
+      "type": "book"
+    },
+    {
+      "name": "Digital Textbook (Mirror)",
+      "url": "https://www.dropbox.com/",
+      "platform": "Dropbox",
+      "icon": "fab fa-dropbox",
+      "fileSize": "1.15 MB",
+      "version": "Edition 2025",
+      "type": "book"
+    },
+    {
+      "name": "mAgicmiRror_Animal_Around_Us",
+      "url": "mAgicmiRror_Animal_Around_Us.pdf",
+      "platform": "Direct Link",
+      "icon": "fas fa-download",
+      "fileSize": "1.15 MB",
+      "version": "Edition 2025",
+      "type": "book"
+    }
+  ],
+  "developers": [
+    {
+      "name": "Sabir Mallick",
+      "role": "Web Lead",
+      "description": "Frontend specialist with expertise in modern web technologies and user experience design. Leads the development of responsive web interfaces.",
+      "github": "https://github.com/Sabircodr",
+      "linkedin": "https://www.linkedin.com/in/sab1r-mallick"
+    },
+    {
+      "name": "Vijaya Laxmi Kumari",
+      "role": "AR Developer",
+      "description": "Augmented reality engineer specializing in mobile AR applications and computer vision. Develops the core AR functionality and tracking systems.",
+      "github": "https://github.com/vijayalaxmikumari",
+      "linkedin": "https://www.linkedin.com/in/vijayalaxmikumari"
+    },
+    {
+      "name": "Member Three",
+      "role": "3D Model Designer",
+      "description": "3D artist and technical designer creating immersive educational models. Focuses on optimizing 3D assets for mobile AR performance.",
+      "github": "https://github.com/",
+      "linkedin": "https://linkedin.com/in/"
+    },
+    {
+      "name": "Member Four",
+      "role": "Content Strategist",
+      "description": "Educational technology specialist developing curriculum-aligned content. Ensures learning objectives are met through engaging AR experiences.",
+      "github": "https://github.com/",
+      "linkedin": "https://linkedin.com/in/"
+    }
+  ]
+}
