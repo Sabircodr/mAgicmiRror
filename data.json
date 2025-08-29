@@ -1,19 +1,10 @@
 {
   "downloadLinks": [
     {
-      "name": "Android APK",
+      "name": "mAgicmirRor",
       "url": "https://drive.google.com/",
       "platform": "Google Drive",
       "icon": "fab fa-google-drive",
-      "fileSize": "215 MB",
-      "version": "v0.2.0",
-      "type": "app"
-    },
-    {
-      "name": "Android APK (Mirror)",
-      "url": "https://www.dropbox.com/",
-      "platform": "Dropbox",
-      "icon": "fab fa-dropbox",
       "fileSize": "215 MB",
       "version": "v0.2.0",
       "type": "app"
@@ -22,13 +13,22 @@
       "name": "mAgicmirRor",
       "url": "https://mega.nz/file/SBdj3QIY#ozDH0TUoF5VxhYs7avR2BhPKXC_Wj4rbk5vR_QtbcWc",
       "platform": "MEGA Cloud",
-      "icon": "fas fas fa-cloud",
+      "icon": "fas fa-cloud",
       "fileSize": "215 MB",
       "version": "v0.2.0",
       "type": "app"
     },
     {
-      "name": "Digital Textbook",
+      "name": "mAgicmirRor",
+      "url": "https://u.pcloud.link/publink/show?code=XZ1pzD5ZKIUKhHjSXW4Q9YYPPYAg8fl2gELX",
+      "platform": "Direct Download",
+      "icon": "fas fas fa-download",
+      "fileSize": "215 MB",
+      "version": "v0.2.0",
+      "type": "app"
+    },
+    {
+      "name": "mAgicmiRror_Animal_Around_Us",
       "url": "https://drive.google.com/",
       "platform": "Google Drive",
       "icon": "fab fa-google-drive",
@@ -37,10 +37,10 @@
       "type": "book"
     },
     {
-      "name": "Digital Textbook (Mirror)",
-      "url": "https://www.dropbox.com/",
-      "platform": "Dropbox",
-      "icon": "fab fa-dropbox",
+      "name": "mAgicmiRror_Animal_Around_Us",
+      "url": "https://mega.nz/file/nF8EjaID#pIvdt4dHBjqKLDMBHtjqkUy3duqdMXkDcveeuPmyJtw",
+      "platform": "MEGA Cloud",
+      "icon": "fas fa-cloud",
       "fileSize": "1.15 MB",
       "version": "Edition 2025",
       "type": "book"
